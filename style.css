@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkslateblue;
+    color: aliceblue;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 19px;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: aliceblue;
+    color: black;
+    font-weight: bolder;
+    border-style: none;
+
+}
+
+p{
+    text-align: left;
+}
+
+.disp{
+    width: 390px;
+    height: 70px;
+    background-color:#000629;
+    color: aliceblue;
+    text-align: right;
+}
+
+.btn:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.container{
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
