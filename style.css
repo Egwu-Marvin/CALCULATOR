@@ -17,7 +17,8 @@ input{
     margin: 5px;
     background-color: aliceblue;
     color: black;
-    font-weight: bolder;
+    font-weight: 900;
+    font-family:cursive ;
     border-style: none;
 
 }
